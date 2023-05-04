@@ -1,0 +1,9 @@
+.Logo{
+  color: white;
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  &:hover{
+    text-decoration: none;
+    color: white;
+  }
+}
